@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>I’m Vignesh, currently pursuing my B.Tech in Electrical And Electronics Engineering (SRM, 2024–2028).<br>My journey is driven by curiosity for how hardware and software converge to shape the future of technology.<br><br>🔧 Areas of Interest<br>Electronics & Communications<br><br>Semiconductors & VLSI<br><br>IoT & Embedded Systems<br><br>Computer Networks & Computer Architecture<br><br>🎯 Career Goals<br>Innovate in semiconductor design and IoT ecosystems.<br><br>Gain hands‑on expertise in embedded systems and VLSI architecture.<br><br>Collaborate on impactful open‑source projects that merge electronics with computing.
+👋 About Me<br>I’m Vignesh, currently pursuing my B.Tech in Electrical And Electronics Engineering (SRM, 2024–2028).<br>My journey is driven by curiosity for how hardware and software converge to shape the future of technology.<br><br>🔧 Areas of Interest<br>Electronics<br><br>Semiconductors & VLSI<br><br>IoT & Embedded Systems<br><br>Computer Networks & Computer Architecture<br><br>🎯 Career Goals<br>Innovate in semiconductor design and IoT ecosystems.<br><br>Gain hands‑on expertise in embedded systems and VLSI architecture.<br><br>Collaborate on impactful open‑source projects that merge electronics with computing.
 
 
 ## 🌐 Socials:
